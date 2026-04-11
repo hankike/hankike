@@ -3,7 +3,7 @@ I work primarily in baseball data, however I have experience in football, basket
 
 I graduated from Louisiana State University in 2024 with a mathematics major and statistics minor. While at LSU, I worked with their baseball team (2022-2024), football (2023-2024), and women's basketball (2022-2024) while helping out with almost every other team on campus as well! Since leaving LSU I have spent a season working with Stats Perform and their college football department, and am currently in year two at Sports Info Solutions in their Baseball Info Solutions department.
 
-Currently I am in the middle of an application to graduate school at Indiana University Indianapolis, where I hope to join their Applied Data Science program and get a specialization in Sports Analytics.
+Currently I am in the middle of applying to graduate programs, where I hope to get a MS in Applied Data Science with a specialization in Sports Analytics.
 
 -  Pronouns: he/him
 -  How to reach me: hank.eichstaedt@gmail.com or hank_ike on Twitter/X
